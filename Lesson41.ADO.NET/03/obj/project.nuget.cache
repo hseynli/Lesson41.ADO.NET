@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ZqUpq7sBF3y91MiiA/TKW5Mg6vp/C/Xgn5rtRrlBFF80R8ZWZBDzFhJynvfWquUZowZWAYLuluzgnG7tuKQjQ==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\VsProjects\\Lesson26.String\\Lesson41.ADO.NET\\03\\03.AppConfigCrypt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hseyn\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\hseyn\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
+    "C:\\Users\\hseyn\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\hseyn\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\hseyn\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\hseyn\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\hseyn\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
